@@ -76,8 +76,6 @@ apache-airflow
 chromadb
 ```
 
-> Vous pouvez en ajouter d'autres si vos DAGs nécessitent des traitements supplémentaires (Pandas, NumPy, etc.).
-
 ---
 
 ## 🧼 Nettoyage
@@ -98,4 +96,3 @@ Projet pédagogique proposé par l'agence **Quera**
 📧 Contact : [kevin.duranty@quera.fr](mailto:kevin.duranty@quera.fr)
 🧠 *La technologie au service du développement des activités humaines.*
 
-```
