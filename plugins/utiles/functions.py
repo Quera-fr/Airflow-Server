@@ -48,9 +48,9 @@ class SimpleAgent():
     def send_email_smtp(self, ti):
         smtp_host = "smtp.gmail.com"
         smtp_port = 587
-        username = "duranty.kevin@gmail.com"
-        password = "bfeqmskzptuekopp"
-        to_email = "kevin.duranty@quera.fr"
+        username = "Your@email.com"
+        password = "PASSWORDAPP"
+        to_email = "destination@email.com"
 
         msg = MIMEMultipart()
         msg["From"] = username
