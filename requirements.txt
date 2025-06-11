@@ -1,3 +1,10 @@
 
 apache-airflow
 chromadb
+mistralai 
+langchain-mistralai
+langchain==0.1.16
+openai
+langchain_community
+httpx
+pypdf
